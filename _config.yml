@@ -17,7 +17,6 @@ author:
   twitter: "rosenqui"
 
 # Theme Configuration
-theme: jekyll-theme-type-on-strap
 remote_theme: sylhare/Type-on-Strap
 # Theme color options: "light", "dark", or "auto" (matches system preference)
 theme_skin: "auto"
