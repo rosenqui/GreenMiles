@@ -1,6 +1,13 @@
 # Site Settings
-title: "GreenMiles 200BONUS"
+title: "Pion Power GreenMiles Referral Code: 200BONUS"
 description: "Use referral code 200BONUS when signing up for Pion Power GreenMiles."
+keywords: 
+  - "GreenMiles"
+  - "Pion Power"
+  - "Pion Power GreenMiles"
+  - "Pion Power referral code"
+  - "Green Miles"
+  - "200BONUS"
 baseurl: "/GreenMiles"
 url: "https://rosenqui.github.io"
 
@@ -10,4 +17,8 @@ author:
   twitter: "rosenqui"
 
 # Theme Configuration
-remote_theme: yaoyao-liu/minimal-light
+theme: jekyll-theme-type-on-strap
+remote_theme: sylhare/Type-on-Strap
+# Theme color options: "light", "dark", or "auto" (matches system preference)
+theme_skin: "auto"
+google_analytics: AW-18423098527
