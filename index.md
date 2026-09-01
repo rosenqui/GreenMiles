@@ -1,4 +1,9 @@
-Pion Power GreenMiles Referral Code: **200BONUS**
+---
+layout: page
+title: Pion Power GreenMiles Referral Code: 200BONUS
+---
+
+# Pion Power GreenMiles Referral Code: **200BONUS**
 
 Use the above code when you sign up for GreenMiles and we'll both receive 200 bonus points. Equivalent to $20 in reward value.
 

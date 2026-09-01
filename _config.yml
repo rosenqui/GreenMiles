@@ -21,3 +21,5 @@ remote_theme: sylhare/Type-on-Strap
 # Theme color options: "light", "dark", or "auto" (matches system preference)
 theme_skin: "auto"
 google_analytics: AW-18423098527
+header_text: " "
+footer_text: " "
