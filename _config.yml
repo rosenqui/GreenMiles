@@ -1,2 +1,13 @@
+# Site Settings
+title: "GreenMiles 200BONUS"
+description: "Use referral code 200BONUS when signing up for Pion Power GreenMiles."
 baseurl: "/GreenMiles"
 url: "https://rosenqui.github.io"
+
+# Author Information
+author:
+  name: "Eric Rosenquist"
+  twitter: "rosenqui"
+
+# Theme Configuration
+remote_theme: yaoyao-liu/minimal-light
