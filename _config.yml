@@ -16,10 +16,9 @@ author:
   name: "Eric Rosenquist"
   twitter: "rosenqui"
 
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Theme Configuration
-remote_theme: sylhare/Type-on-Strap
-# Theme color options: "light", "dark", or "auto" (matches system preference)
-theme_skin: "auto"
+remote_theme: pages-themes/minimal@v0.2.0
 google_analytics: AW-18423098527
-header_text: " "
-footer_text: " "

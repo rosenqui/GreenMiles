@@ -1,0 +1,12 @@
+<style>
+  @media (prefers-color-scheme: dark) {
+    html {
+      /* Automatically inverts the light theme cleanly */
+      filter: invert(1) hue-rotate(180deg);
+    }
+    /* Prevents pictures, logos, or emojis from being color-inverted */
+    img, svg, video, iframe {
+      filter: invert(1) hue-rotate(180deg);
+    }
+  }
+</style>
