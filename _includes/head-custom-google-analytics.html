@@ -9,3 +9,21 @@
     // Google Analytics: G-HW2HDMM4X3
     gtag('config', 'G-HW2HDMM4X3');
 </script>
+
+<script>
+    function copyBonusCode() {
+    navigator.clipboard.writeText('200BONUS').then(() => {
+        const link = document.getElementById('bonusLink');
+        
+        // Save the original text and switch it to confirmation text
+        link.innerText = 'Copied!';
+        link.style.color = '#2da44e'; // Changes text color to green
+        
+        // Switch it back to normal after 2 seconds
+        setTimeout(() => {
+        link.innerText = 'click here';
+        link.style.color = '#0969da'; // Switches back to link blue
+        }, 2000);
+    });
+    }
+</script>
